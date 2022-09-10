@@ -1,0 +1,15 @@
+.algorithm .cell {
+    text-align: center;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+}
+.algorithm {
+    border-collapse: collapse;
+}
+.row {
+    display: flex;
+}
+.row .info {
+    margin-left: 30px;
+}
